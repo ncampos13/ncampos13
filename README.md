@@ -9,7 +9,7 @@
     <img alt="ADVPL" src="https://img.shields.io/static/v1?label=&message=AdvPL&&color=blue" title="ADVPL" />
     <img alt="angular" src="https://img.shields.io/badge/-Angular-red?style=plastic&logo=angular" title="angular" />
     <img alt="JavaScript"
-        src="https://img.shields.io/badge/-JavaScript-fff?fff&style=plastic&logo=javascript&logoColor=f7ab00"
+        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
         title="JavaScript" />
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML-fff?style=plastic&logo=HTML5" title="HTML5" />
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS-fff?style=plastic&logo=CSS3&logoColor=1572B6" title="CSS3" />
