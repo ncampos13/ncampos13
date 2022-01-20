@@ -17,8 +17,8 @@
     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-fff?style=plastic&logo=bootstrap&logoColor=563D7C" title="Bootstrap" />
 </p>
 
-[![Anurag's GitHub
-<!-- stats](https://github-readme-stats.vercel.app/api?username=endreofig)](https://https://github.com/endreofig/ncampos13) -->
+
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=endreofig)](https://https://github.com/ncampos13) -->
 
 
 <h3> 📞 &nbsp; Contato</h3>
