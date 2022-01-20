@@ -24,7 +24,7 @@
 </p>
 
 [![Anurag's GitHub
-stats](https://github-readme-stats.vercel.app/api?username=endreofig)](https://https://github.com/endreofig/endreofig)
+<!-- stats](https://github-readme-stats.vercel.app/api?username=endreofig)](https://https://github.com/endreofig/ncampos13) -->
 
 
 <h3> 📞 &nbsp; Contato</h3>
